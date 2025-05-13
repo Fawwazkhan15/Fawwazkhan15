@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fawwazkhan15&label=Profile%20views&color=0e75b6&style=flat" alt="fawwazkhan15" /> </p>
 
-- 🔭 I’m currently working on **Zero Trust Architecture with AI integration**
-
 - 📫 How to reach me **fawwazkhan0915@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
